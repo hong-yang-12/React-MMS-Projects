@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "self help",
+      "desc": "book",
+      "image": "https://images.pexels.com/photos/2386687/pexels-photo-2386687.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": 1693151190055,
+      "title": "open",
+      "desc": "book",
+      "image": "https://images.pexels.com/photos/1132577/pexels-photo-1132577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 1693168066059,
+      "title": "sun light",
+      "desc": "book",
+      "image": "https://images.pexels.com/photos/3007370/pexels-photo-3007370.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+      "id": 1693168407506,
+      "title": "sit",
+      "desc": "book",
+      "image": "https://images.pexels.com/photos/2228580/pexels-photo-2228580.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+  ]
+}
